@@ -1,0 +1,3 @@
+iphone,a.jpeg,grey,400x400,250gm,apple,30000
+ipad,b.jpeg,grey,400x400,250gm,samsung,45000
+ipod,c.jpeg,grey,400x400,250gm,nokia,25000
